@@ -1,0 +1,6 @@
+{
+   "serverPort" : 5001,
+   "dbUrl": "mongodb+srv://testuser:Nc61CZOVFiE90Pu9@staging-db.odzm5.mongodb.net/TestUsers?retryWrites=true&w=majority",
+   "secretKey": "mern-secret-key",
+   "usersOrdersCollectionName": "UsersOrders"
+}
